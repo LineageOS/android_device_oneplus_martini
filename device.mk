@@ -59,7 +59,8 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    TargetWifiOverlay
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
