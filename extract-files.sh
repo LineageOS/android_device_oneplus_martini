@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=lemonade
+export DEVICE=martini
 export DEVICE_COMMON=sm8350-common
 export VENDOR=oneplus
 
