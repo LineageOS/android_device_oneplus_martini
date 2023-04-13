@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 9RT (MT2111_11_F.14).
+## are from OnePlus 9RT (MT2111_11_F.15).
 
 # ACDB
 odm/etc/acdbdata/Audio_Parameter_Version.txt
