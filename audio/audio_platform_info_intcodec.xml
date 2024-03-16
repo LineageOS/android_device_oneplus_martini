@@ -102,7 +102,7 @@
         <usecase name="USECASE_AUDIO_PLAYBACK_HAPTICS" type="out" id="41" />
         <usecase name="USECASE_INCALL_REC_UPLINK" type="in" id="23" />
         <usecase name="USECASE_INCALL_REC_DOWNLINK" type="in" id="23" />
-        <usecase name="USECASE_INCALL_REC_UPLINK_AND_DOWNLINK" type="in" id="23" />
+        <usecase name="USECASE_INCALL_REC_UPLINK_AND_DOWNLINK" type="in" id="1" />
         <!--Jianfeng.Qiu@MULTIMEDIA.AUDIODRIVER.OPLUS_FEATURE_KTV, 2017/04/05, Add for ktv loopback-->
         <usecase name="USECASE_AUDIO_OPLUS_KTV" type="in" id="34" />
         <usecase name="USECASE_AUDIO_OPLUS_KTV" type="out" id="34" />
@@ -137,6 +137,7 @@
         <!--webber.yan@MM.AudioService.OPLUS_FEATURE_SWITCH_MIC, 2020/12/18, Add for camcorder switch end -->
         <!--#Jianfeng.Qiu@MULTIMEDIA.AUDIODRIVER.HAL.OPLUS_FEATURE_LVAC_SUPPORT, 2021/04/30, Add for AP LVACFS-->
         <param key="record_use_ap_lvacfs" value="enable"/>
+        <param key="record_track_support" value="true"/>
         <!--#Jianfeng.Qiu@MULTIMEDIA.AUDIODRIVER.HAL, 2021/04/30, Add for AP LVACFS end-->
         <!--#Yongzhi.Zhang@PSW.MM.AudioDriver.HAL.413701, 2020/09/22, Add for old audiovoice scence-->
         <param key="use_audiovoice_scence" value="false"/>
@@ -153,6 +154,12 @@
         <!--#Le.LI@MULTIMEDIA.AUDIODRIVER.HAL, 2021/7/12, Add for disable dualheadphone enable-->
         <param key="dualheadphone_enable_switch" value="false"/>
         <!--#Le.LI@MULTIMEDIA.AUDIODRIVER.HAL, 2021/7/12, Add for disable dualheadphone enable end-->
+        <!-- Run.Zhang@MULTIMEDIA.AUDIODRIVER.OPLUS_FEATURE_OPREC_SUPPORT, 2022/03/02, Add for voice car downlink mute -->
+        <param key="enable_car_vc_dl_mute" value="true"/>
+        <!-- Run.Zhang@MULTIMEDIA.AUDIODRIVER.OPLUS_FEATURE_OPREC_SUPPORT, 2022/03/02, Add for voice car downlink mute end -->
+        <!-- zhangrun@MULTIMEDIA.AUDIODRIVER.OPLUS_FEATURE_OCAR_AUDIO, 2022/02/22, add for support call record in ocar mode -->
+        <param key="ocar_mode_support" value="true"/>
+        <!-- zhangrun@MULTIMEDIA.AUDIODRIVER.OPLUS_FEATURE_OCAR_AUDIO, 2022/02/22, add for support call record in ocar mode end -->
     </config_params>
     <gain_db_to_level_mapping>
         <gain_level_map db="-59" level="5"/>
