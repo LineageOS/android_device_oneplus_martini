@@ -584,6 +584,7 @@ odm/lib64/libAlgoInterface.so
 odm/lib64/libAlgoProcess.so
 odm/lib64/libAncSegmentSdk.so
 odm/lib64/libCOppLceTonemapAPI.so
+odm/lib64/libDeVIS.so
 odm/lib64/libEIS.so
 odm/lib64/libFaceBeautyCap.so
 odm/lib64/libFaceBeautyPICap.so
