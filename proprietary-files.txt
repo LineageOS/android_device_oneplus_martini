@@ -581,7 +581,6 @@ odm/lib64/camera/com.qti.tuned.sm8350_ofilm_imx481_20820.bin
 odm/lib64/camera/com.qti.tuned.sm8350_shine_ov02b_20820.bin
 odm/lib64/camera/com.qti.tuned.sm8350_sunny_imx766_20820.bin
 odm/lib64/camera/com.qti.tuned.sm8350_truly_imx471_20820.bin
-odm/lib64/hwconfigurationutiltest
 odm/lib64/libAlgoInterface.so
 odm/lib64/libAlgoProcess.so
 odm/lib64/libAncSegmentSdk.so
