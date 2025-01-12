@@ -1,7 +1,10 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 9RT (MT2111_14.0.0.730(EX01)).
 
-abl.img;AB
+# Exceptions:
+# abl.img: from OnePlus 9RT (MT2111_13.1.0.593(EX01))
+
+abl.img;AB|ab0cbff6d6b33936769b228f3dfdfe2a27c91824
 aop.img;AB
 bluetooth.img;AB
 cpucp.img;AB
