@@ -55,7 +55,7 @@ odm/lib/rfsa/adsp/libworker_pool.so;MODULE_SUFFIX=_odm
 odm/lib/lib_lvacfs.so
 odm/lib/libaudioEngineerTest.so
 odm/lib/liblvacfs_wrapper.so
-vendor/lib/hw/audio.primary.lahaina.so
+vendor/lib/hw/audio.primary.lahaina.so:odm/lib/hw/audio.primary.lahaina.so;MODULE_SUFFIX=_odm
 vendor/lib/liba2dpoffload.so:odm/lib/liba2dpoffload.so;MODULE_SUFFIX=_odm
 vendor/lib/libssrec.so:odm/lib/libssrec.so;MODULE_SUFFIX=_odm
 vendor/lib/libextcamera_client.so
