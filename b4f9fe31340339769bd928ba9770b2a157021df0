@@ -33,6 +33,24 @@
       "message": ".",
       "revId": "b4f9fe31340339769bd928ba9770b2a157021df0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7a3c96e_986036f1",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/config.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 30416
+      },
+      "writtenOn": "2025-09-02T17:21:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e32ebf09_60f07f77",
+      "revId": "b4f9fe31340339769bd928ba9770b2a157021df0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
