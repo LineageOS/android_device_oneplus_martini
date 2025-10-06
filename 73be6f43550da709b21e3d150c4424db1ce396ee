@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7028e7ac_4326a8c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-10-06T09:35:39Z",
+      "side": 1,
+      "message": "would leave it alone, we don\u0027t set it on any oplus device",
+      "revId": "73be6f43550da709b21e3d150c4424db1ce396ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
