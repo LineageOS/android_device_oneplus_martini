@@ -16,6 +16,24 @@
       "message": "would leave it alone, we don\u0027t set it on any oplus device",
       "revId": "73be6f43550da709b21e3d150c4424db1ce396ee",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "768dcb15_21f10c67",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-06T12:00:10Z",
+      "side": 1,
+      "message": "only waffle and its new forks are doing it",
+      "parentUuid": "7028e7ac_4326a8c0",
+      "revId": "73be6f43550da709b21e3d150c4424db1ce396ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
