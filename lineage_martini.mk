@@ -24,8 +24,8 @@ PRODUCT_MODEL := MT2111
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="MT2111_IND-user 14 UKQ1.230924.001 R.1f60ec8-a80f-145fa release-keys" \
-    BuildFingerprint=OnePlus/MT2111_IND/OP5155L1:14/UKQ1.230924.001/R.1f60ec8-a80f-145fa:user/release-keys \
+    BuildDesc="MT2111_IND-user 14 UKQ1.230924.001 R.2202aff-2-fc45e release-keys" \
+    BuildFingerprint=OnePlus/MT2111_IND/OP5155L1:14/UKQ1.230924.001/R.2202aff-2-fc45e:user/release-keys \
     DeviceName=MT2111_IND \
     DeviceProduct=OP5155L1 \
     SystemDevice=OP5155L1 \
